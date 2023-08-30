@@ -1,1 +1,6 @@
-
+bug id: 100
+severity: critical
+priority: high
+summary: password input field accepts characters
+environment: MacBook air m1,Chrome 116
+operSystem: Ventura 13.5
